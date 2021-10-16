@@ -1,2 +1,4 @@
 .env
 .env.example
+
+*.cpython-39.pyc
