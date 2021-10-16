@@ -2,3 +2,5 @@
 .env.example
 
 *.cpython-39.pyc
+
+db.sqlite3
