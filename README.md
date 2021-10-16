@@ -16,7 +16,7 @@ Include the following:
 
 ### Run Project
 python3 manage.py runserver
-localhost:8080
+localhost:8000
 
 ### Run migrate to fix any errors
 python3 manage.py migrate
